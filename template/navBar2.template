@@ -1,0 +1,10 @@
+<div class="w3-top">
+  <div class="w3-bar big-font" id="menuLarge">
+    <a href="#home" class="w3-bar-item w3-button"><b>{{ nomP1 }}</b> {{ nomP2 }}</a>
+    <div class="w3-right w3-hide-small menuGraphic" id="menuNavBarTop"></div>
+  </div>
+
+  <!-- Navbar on small screens -->
+  <div id="menuNavBarTopSmall" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium">
+  </div>
+</div>

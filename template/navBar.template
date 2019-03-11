@@ -1,0 +1,6 @@
+<div class="w3-top" id="navBarTop">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="#home" class="w3-bar-item w3-button"><b>{{ nomP1 }}</b> {{ nomP2 }}</a>
+        <div class="w3-right w3-hide-small menuGraphic" id="menuNavBarTop"></div>
+    </div>
+</div>
